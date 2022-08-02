@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "keywords": [],
-  "main": "/index.html",
+  "main": "/e7-damage-calc/index.html",
   "dependencies": {}
 }
